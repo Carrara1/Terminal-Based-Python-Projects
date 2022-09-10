@@ -200,7 +200,7 @@ while True:
         print(f"{row1}\n{row2}\n{row3}")
 #------------------------------------------------------------------------------ 
     else:
-        print("Wrong option. Trya again. \n")
+        print("Wrong option. Try again. \n")
 #-----------------------------------------------------------------------------
     run_again = input("\nDo you want to run the program again? Type 'yes' or 'no'\n").lower()
 
