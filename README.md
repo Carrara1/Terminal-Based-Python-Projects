@@ -1,6 +1,6 @@
 # Python Terminal-based Projects
 ---
-(currently redo-ing the menu system)
+(currently redoing the menu system)
 
 
 Projects I did while improving my python.
