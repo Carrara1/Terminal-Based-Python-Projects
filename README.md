@@ -19,9 +19,10 @@ Most of this projects are pretty simple, be aware of that! :)
 - Leap Year Checker 
 - Simple RPG
 - Treasure Map
-
-
-## Missing: 
 - Hangman
 - Caesar Cipher
 - Coffee Machine Simulator
+
+
+## Missing: 
+Function to go back to the main menu after using the program.
