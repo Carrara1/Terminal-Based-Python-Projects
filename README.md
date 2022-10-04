@@ -1,10 +1,12 @@
 # Python Terminal-based Projects
 ---
+(currently redo-ing the menu system)
+
 
 Projects I did while improving my python.
-This is a menu to access a bunch of projects, but you can get the individual files as well
+There's a menu to access it all, but you can get the individual files as well
 
-Most of this projects are pretty simple and probably janky, so be aware of that! :)
+Most of this projects are pretty simple, be aware of that! :)
 
 ## So far this includes:
 
@@ -14,6 +16,12 @@ Most of this projects are pretty simple and probably janky, so be aware of that!
 - Pizza Delivery 
 - Tip Calculator
 - Band Name Generator 
-- Leap Year Checker 7
+- Leap Year Checker 
 - Simple RPG
 - Treasure Map
+
+
+## Missing: 
+- Hangman
+- Caesar Cipher
+- Coffee Machine Simulator
