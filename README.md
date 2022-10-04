@@ -1,4 +1,4 @@
-# Python Projects
+# Python Terminal-based Projects
 ---
 
 Projects I did while improving my python.
