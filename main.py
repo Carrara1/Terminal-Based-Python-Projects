@@ -1,4 +1,3 @@
-import random
 import os
 def main(): 
     print("Main Menu")
